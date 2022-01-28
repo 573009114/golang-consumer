@@ -1,0 +1,15 @@
+[es]
+endpoint = "http://10.10.7.135:19201"
+
+[kafka]
+endpoint = "10.10.3.12:9092"
+topic = "biz-test-log"
+group ="group2"
+
+[mysql]
+username = "admin"
+password = "Kingsoft123+-"
+endpoint = "10.10.0.9"
+port = "3306"
+database = "webhook"
+charset  = "utf8"
