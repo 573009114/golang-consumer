@@ -8,7 +8,7 @@ group ="group2"
 
 [mysql]
 username = "admin"
-password = "Kingsoft123+-"
+password = "Kin23+-"
 endpoint = "10.10.0.9"
 port = "3306"
 database = "webhook"
