@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-elk-alert/application/controllers"
+	"golang-consumer/application/controllers"
 	"runtime"
 )
 
